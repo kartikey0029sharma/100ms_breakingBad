@@ -1,0 +1,95 @@
+.flex-container{
+    display: flex;
+}
+
+.flex-child{
+    flex: 1;
+}
+
+.image{
+    width: 50%;
+    height: 60vh;
+    margin-left: 170px;
+    border-radius: 20px;
+}
+
+.recipeDetails{
+    background-color: rgb(210, 222, 223);
+    margin-right: 70px;
+    padding-top: 20px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+
+.recipeDetails p{
+    font-size: 25px;
+}
+
+.price{
+    margin-top: 100px;
+}
+
+.creditCardInput{
+    text-align: center;
+    color: blue;
+}
+
+.creditCardInput input{
+    font-size: 15px;
+}
+
+input{
+    margin: 5px;
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 2px;
+}
+
+.paymentHeader{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#PaymentForm{
+        margin-top: 50px;
+}
+
+.proceedButton{
+    text-align: center;
+}
+
+.proceedButton button{
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 2px;
+}
+
+button{
+    margin: 5px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.proceedButton :hover{
+    background-color: black;
+    color: aliceblue;
+}
+
+.Quotes{
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+.QuoteHead{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.QuoteList{
+    font-size: larger;
+}

@@ -1,0 +1,41 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React example starter project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "0.21.1",
+    "css-loader": "5.0.1",
+    "node-sass": "5.0.0",
+    "path-loader": "1.0.10",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "react-pagination-list": "1.0.8",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "3.4.3",
+    "sass-loader": "10.1.0",
+    "scss": "0.2.4",
+    "src": "1.1.2",
+    "style-loader": "2.0.0",
+    "url-loader": "4.1.1"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
