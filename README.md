@@ -1,7 +1,8 @@
 # 100ms_breaking
 Created with CodeSandbox
 
-A web App which utilizes Breaking bad api from https://breakingbadapi.com and shows basic reuired data asked.
+A web App which utilizes Breaking bad api from https://breakingbadapi.com and shows basic required data asked.
+ASSIGNMENT FOR 100ms Hiring.
 
 NETLIFY APP (deployed): https://5fe331916ef3757ea6be2a10--breakingbad055.netlify.app
 Github repolink:https://github.com/kartikey0029sharma/100ms_breakingBad
