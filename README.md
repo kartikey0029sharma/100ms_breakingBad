@@ -12,3 +12,5 @@ Api used :https://breakingbadapi.com
 USAGE: 
    click on specific card of character for full details
    click on 'Breaking Bad' text as home button to reach published Home page.
+   
+   VIEW VIDEO FOR MORE :https://drive.google.com/file/d/1xWBuBSNMGlVKnheD8fg10ArP3QUlkXyt/view?usp=sharing
